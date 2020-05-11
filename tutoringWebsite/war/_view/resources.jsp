@@ -2,6 +2,7 @@
 
 <html>
 	<head>
+	
         <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/_view/main.css" >
         <Title>Resources</Title>
     </head>
